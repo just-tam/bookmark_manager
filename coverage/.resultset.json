@@ -37,6 +37,16 @@
           1,
           null,
           null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -67,6 +77,22 @@
           null
         ]
       },
+      "/Users/tamara/Projects/bookmark_manager/spec/features/deleting_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/tamara/Projects/bookmark_manager/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
@@ -86,6 +112,6 @@
         ]
       }
     },
-    "timestamp": 1598458389
+    "timestamp": 1598535400
   }
 }

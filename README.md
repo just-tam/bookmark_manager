@@ -12,6 +12,13 @@ So that I can store bookmarks to see later
 I would like to be able to add a bookmark to Bookmark Manager
 ```
 
+```
+As a user
+So I can remove my bookmark from Bookmark Manager
+I want to delete a bookmark
+```
+
+
 # DOMAIN MODEL
 
 ![Bookmark manager domain model](https://github.com/just-tam/bookmark_manager/blob/master/images/bookmark-manager-domain-model-for-first-user-story.png?raw=true)
