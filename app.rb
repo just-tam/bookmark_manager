@@ -1,5 +1,6 @@
 require 'sinatra/base'
 require './lib/bookmark'
+require './database_connection_setup'
 
 class BookmarkManager < Sinatra::Base
 
@@ -25,7 +26,6 @@ class BookmarkManager < Sinatra::Base
   end
 
   get '/bookmarks/:id/edit' do
-    # @bookmark_id = params[:id]
     @bookmark = Bookmark.find(id: params[:id])
     erb :'bookmarks/edit'
   end
